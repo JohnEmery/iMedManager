@@ -1,3 +1,0 @@
-Beep C:\Arduino\loadmelody.bat
-Button C:\Arduino\loadbutton.bat
-LCD C:\Arduino\loadLCD.bat

@@ -1,1 +1,0 @@
-"C:\Program Files (x86)\Arduino\arduino.exe" --upload c:\arduino\toneMelody\toneMelody.ino
